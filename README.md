@@ -1,5 +1,5 @@
 # ⛓️‍💥PRODIGY_AD_01
-A calculator for Android devices that can perform simple calculations such as addition, subtraction, multiplication, division, and finding percentages.
+A calculator for Android devices that can perform simple calculations such as addition, subtraction, multiplication, division, and finding percentages. 
 
 
 # ⛓️‍💥ABOUT
